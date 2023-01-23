@@ -1,0 +1,17 @@
+.stats-info {
+  display: flex;
+  flex-direction: column;
+
+  width: fit-content;
+  height: 3.125rem;
+
+  .figure {
+    color: white;
+    font-size: 25px;
+    font-family: 'Lexend Deca', sans-serif;
+  }
+
+  .info {
+    color: hsla(0, 0%, 100%, 0.6);
+  }
+}
